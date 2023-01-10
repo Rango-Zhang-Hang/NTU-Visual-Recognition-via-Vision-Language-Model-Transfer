@@ -1,1 +1,5 @@
-# NTU-Visual-Recognition-via-Vision-Language-Model-Transfer
+# Visual-Recognition-via-Vision-Language-Model-Transfer
+
+
+## Claimed
+Nanyang Technology University

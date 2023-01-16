@@ -21,3 +21,4 @@ Only train the Fast RCNN part first, on COCO2017. The environment 'ResNet50_RCNN
 * still python 3.8
 * torch==1.10
 * torchvision==0.11.1
+Using pre-trained [ResNet50.pth](https://download.pytorch.org/models/resnet50-19c8e357.pth), to train my ResNet50-FasterRCNN.pth

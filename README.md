@@ -47,4 +47,6 @@ then
 ```
 pip install git+https://github.com/philferriere/cocoapi.git#egg=pycocotools^&subdirectory=PythonAPI
 ```
-
+### 0.2.1 version
+Using the [openAi_CLiP](https://github.com/mlfoundations/open_clip)  
+And a trained faster_rcnn_restnet50 model.

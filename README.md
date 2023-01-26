@@ -26,6 +26,7 @@ Using pre-trained [ResNet50.pth](https://download.pytorch.org/models/resnet50-19
 Jan 26.  
 Full update for libs. Also making the coco dataset in this project.  
 Project Folder  
+```
 └───the code notebook (.py / .ipynb)  
 │  
 └───COCOdataset2017     
@@ -40,7 +41,9 @@ Project Folder
     │        │   ...  
     └───annotations  
         │   instances_train.json  
-        │   instances_val.json  
+        │   instances_val.json 
+```
+then
 ```
 pip install git+https://github.com/philferriere/cocoapi.git#egg=pycocotools^&subdirectory=PythonAPI
 ```

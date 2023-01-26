@@ -1,0 +1,3 @@
+saving model weights:  
+pretrained: resnet50-19c8e357.pth  
+trained: resnet50_fasterrcnn_weights.pth

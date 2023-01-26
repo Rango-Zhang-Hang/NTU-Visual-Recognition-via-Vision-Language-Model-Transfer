@@ -48,5 +48,7 @@ then
 pip install git+https://github.com/philferriere/cocoapi.git#egg=pycocotools^&subdirectory=PythonAPI
 ```
 ### 0.2.1 version
-Using the [openAi_CLiP](https://github.com/mlfoundations/open_clip).  
-And a trained faster_rcnn_restnet50 [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth).
+About to use the [openAi_CLiP](https://github.com/mlfoundations/open_clip).  
+And a already trained faster_rcnn_restnet50 model based on [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth).  
+A issue: the model already outputs the predicted label, but I only need the proposals (only a img area).
+![test_result](results/test_result.jpg)

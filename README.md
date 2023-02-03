@@ -54,4 +54,7 @@ A issue: the model already outputs the predicted label, but I only need the prop
 ![test_result](results/test_result.jpg)
 
 ### 0.3 Change
-Due to the current GPU limit. Vision recognition will be sematic segmentation.
+Due to the current GPU limit. Vision recognition will be sematic segmentation. The original codes moved to:  
+```
+mylittleprogram->master-project-test
+```

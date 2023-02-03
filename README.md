@@ -52,3 +52,6 @@ About to use the [openAi_CLiP](https://github.com/mlfoundations/open_clip).
 And a already trained faster_rcnn_restnet50 model based on [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth).  
 A issue: the model already outputs the predicted label, but I only need the proposals (only a img area).
 ![test_result](results/test_result.jpg)
+
+### 0.3 Change
+Due to the current GPU limit. Vision recognition will be sematic segmentation.
